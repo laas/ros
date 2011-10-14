@@ -1,0 +1,4 @@
+- git:
+    uri: git://github.com/laas/vision_visp.git
+    local-name: stacks/vision_visp
+    version: master
