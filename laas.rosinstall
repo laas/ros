@@ -2,3 +2,7 @@
     uri: git://github.com/laas/vision_visp.git
     local-name: stacks/vision_visp
     version: master
+- git:
+    uri: git://github.com/laas/roboptim.git
+    local-name: stacks/roboptim
+    version: master
