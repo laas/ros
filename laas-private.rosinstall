@@ -1,0 +1,4 @@
+- git:
+    uri: ssh://softs.laas.fr/git/jrl/hrp2.git
+    local-name: stacks/hrp2
+    version: master
