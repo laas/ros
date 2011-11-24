@@ -3,10 +3,6 @@
     local-name: stacks/vision_visp
     version: master
 - git:
-    uri: git://github.com/laas/roboptim.git
-    local-name: stacks/roboptim
-    version: master
-- git:
     uri: git://github.com/laas/motion_analysis_mocap.git
     local-name: stacks/motion_analysis_mocap
     version: master
