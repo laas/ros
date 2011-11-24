@@ -2,3 +2,10 @@
     uri: ssh://softs.laas.fr/git/jrl/hrp2.git
     local-name: stacks/hrp2
     version: master
+
+# This package is closed source due to dependencies toward KiteLab and
+  HPP.
+- git:
+    uri: git://github.com/laas/humanoid_motion_planners.git
+    local-name: stacks/humanoid_motion_planners
+    version: master
