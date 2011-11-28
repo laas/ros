@@ -4,7 +4,7 @@
     version: master
 
 # This package is closed source due to dependencies toward KiteLab and
-  HPP.
+# HPP.
 - git:
     uri: git://github.com/laas/humanoid_motion_planners.git
     local-name: stacks/humanoid_motion_planners
