@@ -9,3 +9,10 @@
     uri: git://github.com/laas/humanoid_motion_planners.git
     local-name: stacks/humanoid_motion_planners
     version: master
+
+# This package is closed source due to dependencies toward
+# stereo_visibility SLAM algorithm.
+- git:
+    uri: ://github.com/laas/vslam_stereo_visibility.git
+    local-name: stacks/vslam_stereo_visibility
+    version: master
