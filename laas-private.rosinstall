@@ -13,6 +13,6 @@
 # This package is closed source due to dependencies toward
 # stereo_visibility SLAM algorithm.
 - git:
-    uri: ://github.com/laas/vslam_stereo_visibility.git
+    uri: git://github.com/laas/vslam_stereo_visibility.git
     local-name: stacks/vslam_stereo_visibility
     version: master
