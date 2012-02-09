@@ -14,3 +14,7 @@
     uri: git://github.com/laas/humanoid_walk.git
     local-name: stacks/humanoid_walk
     version: master
+- git:
+    uri: git://github.com/laas/hueblob.git
+    local-name: stacks/hueblob
+    version: master
