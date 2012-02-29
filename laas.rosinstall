@@ -16,7 +16,7 @@
     version: master
 - git:
     uri: git://github.com/laas/jrl_walkgen_bridge.git
-    local-name: stacks/humanoid_walk
+    local-name: stacks/jrl_walkgen_bridge
     version: master
 - git:
     uri: git://github.com/laas/hueblob.git
