@@ -26,3 +26,7 @@
     uri: git://github.com/laas/geometric_tools.git
     local-name: stacks/geometric_tools
     version: master
+- git:
+    uri: git://github.com/laas/robot_contact_point.git
+    local-name: stacks/robot_contact_point
+    version: master
