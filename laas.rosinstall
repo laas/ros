@@ -34,3 +34,7 @@
     uri: git://github.com/laas/urdfpy.git
     local-name: stacks/urdfpy
     version: master
+- git:
+    uri: git://github.com/laas/roboptim.git
+    local-name: stacks/roboptim
+    version: master
