@@ -35,8 +35,8 @@
     local-name: stacks/robot_contact_point
     version: master
 - git:
-    uri: git://github.com/laas/urdfpy.git
-    local-name: stacks/urdfpy
+    uri: git://github.com/laas/robot_model_py.git
+    local-name: stacks/robot_model_py
     version: master
 - git:
     uri: git://github.com/laas/roboptim.git
