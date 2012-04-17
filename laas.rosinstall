@@ -42,3 +42,7 @@
     uri: git://github.com/laas/roboptim.git
     local-name: stacks/roboptim
     version: master
+- git:
+    uri: git://github.com/laas/romeo.git
+    local-name: stacks/romeo
+    version: master
