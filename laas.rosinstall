@@ -46,3 +46,7 @@
     uri: git://github.com/laas/romeo.git
     local-name: stacks/romeo
     version: master
+- git:
+    uri: git://github.com/laas/rosbag_analysis.git
+    local-name: stacks/romeo
+    version: master
