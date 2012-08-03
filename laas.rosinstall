@@ -50,3 +50,14 @@
     uri: git://github.com/laas/rosbag_analysis.git
     local-name: stacks/rosbag_analysis
     version: master
+
+# Warning: this package requires at least ROS Fuerte.
+# There is no simple way to achieve this in Electric,
+# but I need this package here so that it get indexed
+# in the ros.org wiki. If you are using Electric,
+# ignore this package (i.e. do not try to compile it,
+# it will not work).
+- git:
+    uri: git://github.com/laas/rviz_plugin_covariance.git
+    local-name: stacks/rviz_plugin_covariance
+    version: master
