@@ -51,6 +51,16 @@
     local-name: stacks/rosbag_analysis
     version: master
 
+# OpenHRP related packages.
+- git:
+    uri: git://github.com/laas/openrtm.git
+    local-name: stacks/openrtm
+    version: master
+- git:
+    uri: git://github.com/laas/openhrp.git
+    local-name: stacks/openhrp
+    version: master
+
 # Warning: this package requires at least ROS Fuerte.
 # There is no simple way to achieve this in Electric,
 # but I need this package here so that it get indexed
