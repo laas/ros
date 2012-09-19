@@ -60,6 +60,10 @@
     uri: git://github.com/laas/openhrp.git
     local-name: stacks/openhrp
     version: master
+- git:
+    uri: git://github.com/laas/simulator_openhrp.git
+    local-name: stacks/simulator_openhrp
+    version: master
 
 # Warning: this package requires at least ROS Fuerte.
 # There is no simple way to achieve this in Electric,
