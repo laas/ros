@@ -53,8 +53,8 @@
 
 # OpenHRP related packages.
 - git:
-    uri: git://github.com/laas/openrtm-cpp.git
-    local-name: stacks/openrtm-cpp
+    uri: git://github.com/laas/openrtm_cpp.git
+    local-name: stacks/openrtm_cpp
     version: master
 - git:
     uri: git://github.com/laas/openhrp.git
