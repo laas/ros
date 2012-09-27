@@ -61,6 +61,10 @@
     local-name: stacks/openhrp
     version: master
 - git:
+    uri: git://github.com/laas/hrpsys_base.git
+    local-name: stacks/hrpsys_base
+    version: master
+- git:
     uri: git://github.com/laas/simulator_openhrp.git
     local-name: stacks/simulator_openhrp
     version: master
