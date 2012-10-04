@@ -57,6 +57,10 @@
     local-name: stacks/openrtm_cpp
     version: master
 - git:
+    uri: git://github.com/laas/openrtm_python.git
+    local-name: stacks/openrtm_python
+    version: master
+- git:
     uri: git://github.com/laas/openhrp.git
     local-name: stacks/openhrp
     version: master
