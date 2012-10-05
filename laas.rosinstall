@@ -51,6 +51,12 @@
     local-name: stacks/rosbag_analysis
     version: master
 
+# RBDL
+- git:
+    uri: git://github.com/laas/rbdl.git
+    local-name: stacks/rbdl
+    version: master
+
 # OpenHRP related packages.
 - git:
     uri: git://github.com/laas/openrtm_cpp.git
