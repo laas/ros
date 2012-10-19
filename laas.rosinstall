@@ -50,6 +50,10 @@
     uri: git://github.com/laas/rosbag_analysis.git
     local-name: stacks/rosbag_analysis
     version: master
+- git:
+    uri: git://github.com/laas/urdf_validator.git
+    local-name: stacks/urdf_validator
+    version: master
 
 # RBDL
 - git:
