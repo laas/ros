@@ -55,6 +55,11 @@
     local-name: stacks/robot_capsule_urdf
     version: master
 
+- git:
+    uri: git://github.com/laas/romeo
+    local-name: stacks/romeo
+    version: master
+
 # RBDL
 - git:
     uri: git://github.com/laas/rbdl.git
