@@ -44,7 +44,7 @@
 - git:
     uri: git://github.com/laas/romeo.git
     local-name: stacks/romeo
-    version: electric_fuerte
+    version: fuerte
 - git:
     uri: git://github.com/laas/rosbag_analysis.git
     local-name: stacks/rosbag_analysis
