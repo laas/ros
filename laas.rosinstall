@@ -38,10 +38,13 @@
     uri: git://github.com/laas/robot_model_py.git
     local-name: stacks/robot_model_py
     version: master
+    
+# use the Fuerte/Electric version for the Romeo package.
+# to use Groovy's one, use the master branch.
 - git:
     uri: git://github.com/laas/romeo.git
     local-name: stacks/romeo
-    version: master
+    version: electric_fuerte
 - git:
     uri: git://github.com/laas/rosbag_analysis.git
     local-name: stacks/rosbag_analysis
