@@ -7,11 +7,11 @@
     local-name: stacks/motion_analysis_mocap
     version: master
 - git:
-    uri: git://github.com/laas/redundant_manipulator_control.git
+    uri: git://github.com/stack-of-tasks/redundant_manipulator_control.git
     local-name: stacks/redundant_manipulator_control
     version: master
 - git:
-    uri: git://github.com/laas/redundant_manipulator_control_tutorial.git
+    uri: git://github.com/stack-of-tasks/redundant_manipulator_control_tutorial.git
     local-name: stacks/redundant_manipulator_control_tutorial
     version: master
 - git:
@@ -38,7 +38,7 @@
     uri: git://github.com/laas/robot_model_py.git
     local-name: stacks/robot_model_py
     version: fuerte
-    
+
 # use the Fuerte/Electric version for the Romeo package.
 # to use Groovy's one, use the master branch.
 - git:
