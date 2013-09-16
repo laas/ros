@@ -1,5 +1,13 @@
 LAAS ROS stacks index
 =====================
 
-This repository only contains laas.rosinstall which is used to install
-all the ROS stacks maintained at LAAS.
+This repository contains two `rosinstall` files:
+
+ 1. `laas.rosinstall` contains Open Source stacks.
+
+ 1. `laas-private.rosinstall` contains closed source stacks and
+ require special permissions.
+
+
+_Important:_ make sure to checkout the branch matching your current
+ROS version.
