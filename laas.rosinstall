@@ -47,10 +47,6 @@
     local-name: stacks/rosbag_analysis
     version: groovy
 - git:
-    uri: git://github.com/laas/urdf_validator.git
-    local-name: stacks/urdf_validator
-    version: groovy
-- git:
     uri: git://github.com/laas/robot_capsule_urdf.git
     local-name: stacks/robot_capsule_urdf
     version: groovy
