@@ -1,46 +1,43 @@
 - git:
     uri: git://github.com/laas/vision_visp.git
     local-name: stacks/vision_visp
-    version: master
+    version: fuerte
 - git:
     uri: git://github.com/laas/motion_analysis_mocap.git
     local-name: stacks/motion_analysis_mocap
-    version: master
+    version: fuerte
 - git:
     uri: git://github.com/stack-of-tasks/redundant_manipulator_control.git
     local-name: stacks/redundant_manipulator_control
-    version: master
+    version: fuerte
 - git:
     uri: git://github.com/stack-of-tasks/redundant_manipulator_control_tutorial.git
     local-name: stacks/redundant_manipulator_control_tutorial
-    version: master
+    version: fuerte
 - git:
     uri: git://github.com/laas/humanoid_walk.git
     local-name: stacks/humanoid_walk
-    version: master
+    version: fuerte
 - git:
     uri: git://github.com/laas/jrl_walkgen_bridge.git
     local-name: stacks/jrl_walkgen_bridge
-    version: master
+    version: fuerte
 - git:
     uri: git://github.com/laas/hueblob.git
     local-name: stacks/hueblob
-    version: master
+    version: fuerte
 - git:
     uri: git://github.com/laas/geometric_tools.git
     local-name: stacks/geometric_tools
-    version: master
+    version: fuerte
 - git:
     uri: git://github.com/laas/robot_contact_point.git
     local-name: stacks/robot_contact_point
-    version: master
+    version: fuerte
 - git:
     uri: git://github.com/laas/robot_model_py.git
     local-name: stacks/robot_model_py
     version: fuerte
-
-# use the Fuerte/Electric version for the Romeo package.
-# to use Groovy's one, use the master branch.
 - git:
     uri: git://github.com/laas/romeo.git
     local-name: stacks/romeo
@@ -48,50 +45,20 @@
 - git:
     uri: git://github.com/laas/rosbag_analysis.git
     local-name: stacks/rosbag_analysis
-    version: master
+    version: fuerte
 - git:
     uri: git://github.com/laas/urdf_validator.git
     local-name: stacks/urdf_validator
-    version: master
+    version: fuerte
 - git:
     uri: git://github.com/laas/robot_capsule_urdf.git
     local-name: stacks/robot_capsule_urdf
-    version: master
-
-# RBDL
-- git:
-    uri: git://github.com/laas/rbdl.git
-    local-name: stacks/rbdl
-    version: master
-
-# OpenHRP related packages.
-- git:
-    uri: git://github.com/laas/openrtm_cpp.git
-    local-name: stacks/openrtm_cpp
-    version: master
-- git:
-    uri: git://github.com/laas/openrtm_python.git
-    local-name: stacks/openrtm_python
-    version: master
-- git:
-    uri: git://github.com/laas/openhrp.git
-    local-name: stacks/openhrp
-    version: master
-- git:
-    uri: git://github.com/laas/hrpsys_base.git
-    local-name: stacks/hrpsys_base
-    version: master
+    version: fuerte
 - git:
     uri: git://github.com/laas/simulator_openhrp.git
     local-name: stacks/simulator_openhrp
-    version: master
-
-# Warning: this package requires at least ROS Fuerte.
-# There is no simple way to achieve this in Electric,
-# but I need this package here so that it get indexed
-# in the ros.org wiki. If you are using Electric,
-# ignore this package (i.e. do not try to compile it,
-# it will not work).
+    version: fuerte
 - git:
     uri: git://github.com/laas/rviz_plugin_covariance.git
     local-name: stacks/rviz_plugin_covariance
+    version: fuerte
