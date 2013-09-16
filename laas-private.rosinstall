@@ -3,7 +3,7 @@
 - git:
     uri: git@github.com:thomas-moulard/hrp2
     local-name: stacks/hrp2
-    version: fuerte
+    version: groovy
 
 # This package is closed source due to dependencies toward KiteLab and
 # HPP.

@@ -1,64 +1,64 @@
 - git:
     uri: git://github.com/laas/vision_visp.git
     local-name: stacks/vision_visp
-    version: fuerte
+    version: groovy
 - git:
     uri: git://github.com/laas/motion_analysis_mocap.git
     local-name: stacks/motion_analysis_mocap
-    version: fuerte
+    version: groovy
 - git:
     uri: git://github.com/stack-of-tasks/redundant_manipulator_control.git
     local-name: stacks/redundant_manipulator_control
-    version: fuerte
+    version: groovy
 - git:
     uri: git://github.com/stack-of-tasks/redundant_manipulator_control_tutorial.git
     local-name: stacks/redundant_manipulator_control_tutorial
-    version: fuerte
+    version: groovy
 - git:
     uri: git://github.com/laas/humanoid_walk.git
     local-name: stacks/humanoid_walk
-    version: fuerte
+    version: groovy
 - git:
     uri: git://github.com/laas/jrl_walkgen_bridge.git
     local-name: stacks/jrl_walkgen_bridge
-    version: fuerte
+    version: groovy
 - git:
     uri: git://github.com/laas/hueblob.git
     local-name: stacks/hueblob
-    version: fuerte
+    version: groovy
 - git:
     uri: git://github.com/laas/geometric_tools.git
     local-name: stacks/geometric_tools
-    version: fuerte
+    version: groovy
 - git:
     uri: git://github.com/laas/robot_contact_point.git
     local-name: stacks/robot_contact_point
-    version: fuerte
+    version: groovy
 - git:
     uri: git://github.com/laas/robot_model_py.git
     local-name: stacks/robot_model_py
-    version: fuerte
+    version: groovy
 - git:
     uri: git://github.com/laas/romeo.git
     local-name: stacks/romeo
-    version: fuerte
+    version: groovy
 - git:
     uri: git://github.com/laas/rosbag_analysis.git
     local-name: stacks/rosbag_analysis
-    version: fuerte
+    version: groovy
 - git:
     uri: git://github.com/laas/urdf_validator.git
     local-name: stacks/urdf_validator
-    version: fuerte
+    version: groovy
 - git:
     uri: git://github.com/laas/robot_capsule_urdf.git
     local-name: stacks/robot_capsule_urdf
-    version: fuerte
+    version: groovy
 - git:
     uri: git://github.com/laas/simulator_openhrp.git
     local-name: stacks/simulator_openhrp
-    version: fuerte
+    version: groovy
 - git:
     uri: git://github.com/laas/rviz_plugin_covariance.git
     local-name: stacks/rviz_plugin_covariance
-    version: fuerte
+    version: groovy
