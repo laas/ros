@@ -2,7 +2,7 @@
 - git:
     uri: git@github.com:jrl-umi3218/hrp2
     local-name: stacks/hrp2
-    version: master
+    version: electric
 
 # This package is closed source due to dependencies toward KiteLab and
 # HPP.
