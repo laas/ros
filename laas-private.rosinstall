@@ -1,5 +1,4 @@
 # This closed-source package is hosted as a private repository on
-# thomas-moulard account.
 - git:
     uri: git@github.com:jrl-umi3218/hrp2
     local-name: stacks/hrp2
