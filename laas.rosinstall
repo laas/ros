@@ -11,9 +11,9 @@
     local-name: stacks/redundant_manipulator_control
     version: master
 - git:
-    uri: git://github.com/stack-of-tasks/redundant_manipulator_control_tutorial.git
+    uri: git@github.com:elie-moussy/redundant_manipulator_control.git
     local-name: stacks/redundant_manipulator_control_tutorial
-    version: master
+    version: topic/eigen
 - git:
     uri: git://github.com/laas/humanoid_walk.git
     local-name: stacks/humanoid_walk
