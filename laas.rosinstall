@@ -37,7 +37,7 @@
 - git:
     uri: git://github.com/laas/robot_model_py.git
     local-name: stacks/robot_model_py
-    version: electric
+    version: master
 
 # use the Fuerte/Electric version for the Romeo package.
 # to use Groovy's one, use the electric branch.
@@ -58,29 +58,29 @@
 - git:
     uri: git://github.com/laas/rbdl.git
     local-name: stacks/rbdl
-    version: electric
+    version: master
 
 # OpenHRP related packages.
 - git:
     uri: git://github.com/laas/openrtm_cpp.git
     local-name: stacks/openrtm_cpp
-    version: electric
+    version: master
 - git:
     uri: git://github.com/laas/openrtm_python.git
     local-name: stacks/openrtm_python
-    version: electric
+    version: master
 - git:
     uri: git://github.com/laas/openhrp.git
     local-name: stacks/openhrp
-    version: electric
+    version: master
 - git:
     uri: git://github.com/laas/hrpsys_base.git
     local-name: stacks/hrpsys_base
-    version: electric
+    version: master
 - git:
     uri: git://github.com/laas/simulator_openhrp.git
     local-name: stacks/simulator_openhrp
-    version: electric
+    version: master
 
 # Warning: this package requires at least ROS Fuerte.
 # There is no simple way to achieve this in Electric,
