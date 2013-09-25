@@ -1,0 +1,6 @@
+# This closed-source package is hosted as a private repository on
+- git:
+    uri: git@github.com:jrl-umi3218/hrp2
+    local-name: stacks/hrp2
+    version: master
+
