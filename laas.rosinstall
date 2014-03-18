@@ -1,5 +1,5 @@
 - git:
-    uri: git://github.com/laas/vision_visp.git
+    uri: git://github.com/lagadic/vision_visp.git
     local-name: stacks/vision_visp
     version: master
 - git:
