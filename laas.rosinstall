@@ -3,10 +3,6 @@
     local-name: stacks/vision_visp
     version: master
 - git:
-    uri: git://github.com/laas/motion_analysis_mocap.git
-    local-name: stacks/motion_analysis_mocap
-    version: master
-- git:
     uri: git://github.com/stack-of-tasks/redundant_manipulator_control.git
     local-name: stacks/redundant_manipulator_control
     version: master
